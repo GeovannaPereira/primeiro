@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <META charset="UTF=8">
+            <title>
+                LIVROS
+            </title>
+               <style>
+                   .fundo{ background-color: blanchedalmond;
+
+            }
+                    .tamanhos{ 
+                        position: absolute;
+                        top: 100px;
+                        left: 30px;
+                        height: 500px;
+                        width: 200px;
+                    }
+             </style>
+           
+    </head>
+    <body class="fundo">
+        <img class="tamanhos" src="https://i.pinimg.com/236x/79/c8/df/79c8df1086ed5e472b349fc870d85b21.jpg";>
+    </body>
+</html>
