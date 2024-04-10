@@ -1,0 +1,11 @@
+.fundo{ background-color: rgb(206, 245, 247);}
+.pagina1 {
+    position: absolute;
+    top: 100px;
+    left: 50px;
+}
+.pagina2 {
+    position: absolute;
+    top: 100px;
+    left: 100px;
+}
